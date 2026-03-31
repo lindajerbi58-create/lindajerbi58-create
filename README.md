@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Linda 👋
 
-<!--
-**lindajerbi58-create/lindajerbi58-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student (ISIMM)  
+💻 Full-Stack Developer  
+🚀 Passionate about building real-world applications and solving complex problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects
+
+### 🟢 SitePulse
+Industrial project management platform  
+- Task & subtask hierarchy  
+- Daily reporting system  
+- Performance tracking dashboard  
+- Procurement & quality modules  
+
+**Tech:** Next.js, TypeScript, Zustand, Tailwind CSS  
+
+---
+
+### 🚗 Unidrive
+Full-stack university ride-sharing application  
+- Authentication system (JWT)  
+- Real-time messaging & geolocation  
+- Trip search & filtering system  
+- User rating system  
+
+**Tech:** React Native, Node.js, Express, MongoDB  
+
+---
+
+### 🏫 ISIMM Core System (ongoing)
+Academic management platform  
+- Users, schedules, internships, complaints  
+- Team project with structured development  
+
+**Tech:** React.js, Node.js / Spring Boot, PostgreSQL  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript  
+**Web & Mobile:** React, Next.js, React Native, Node.js, Express  
+**Databases:** MongoDB, SQL, Oracle  
+**Other:** UML, System Design, Data Structures & Algorithms  
+
+---
+
+## 🧠 Interests
+
+- Machine Learning & Artificial Intelligence  
+- System Design & Scalable Applications  
+- Problem Solving & Competitive Programming  
+
+---
+
+## 🏆 Achievements
+
+- IEEE 24h International Programming Competition  
+- MTC Coding Contest (Codeforces-based)  
+- IBM SkillsBuild – Web Development Fundamentals  
+- Introduction to Artificial Intelligence Certification  
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French (C2)  
+- 🇬🇧 English (B2)  
+- 🇪🇸 Spanish  
+- 🇹🇳 Arabic (Native)  
+
+---
+
+## 📫 Contact
+
+- 📧 Email: lindajerbi58@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/linda-jerbi-60346b36a/
