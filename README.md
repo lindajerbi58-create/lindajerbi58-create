@@ -58,13 +58,15 @@ Academic management platform
 
 ## 🏆 Achievements
 
-- IEEE 24h International Programming Competition  
-- MTC Coding Contest (Codeforces-based)  
-- IBM SkillsBuild – Web Development Fundamentals  
-- Introduction to Artificial Intelligence Certification  
+- Earned the Oracle Cloud Infrastructure 2025 AI Foundations Associate certification  
+- Completed IBM SkillsBuild Web Development Fundamentals  
+- Completed Introduction to Artificial Intelligence by Simplilearn SkillUp  
+- Achieved TCF Level C2 in French  
+- Achieved TOEFL ITP Level B2 in English  
+- Participated in the IEEE 24h International Programming Competition  
+- Participated in the Microsoft Tech Club ISIMM Coding Competition  
 
 ---
-
 ## 🌍 Languages
 
 - 🇫🇷 French (C2)  
